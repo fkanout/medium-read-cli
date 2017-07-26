@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fkanout/medium-api-cli/issues"
   },
-  "homepage": "https://github.com/fkanout/medium-api-cli#readme"
+  "homepage": "https://github.com/fkanout/medium-api-cli#readme",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
 }
