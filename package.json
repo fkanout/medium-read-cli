@@ -2,7 +2,11 @@
   "name": "medium-api-cli",
   "version": "1.0.0",
   "description": "Read Medium's articles from your terminal",
-  "main": "app.js",
+  "main": "./lib/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "mdm": "./bin/app.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
