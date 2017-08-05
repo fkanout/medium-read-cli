@@ -1,8 +1,17 @@
 {
   "name": "medium-read-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read Medium's stories from your terminal",
-  "keywords": ["cli", "medium", "sotries", "story", "read", "terminal", "geek", "api"],
+  "keywords": [
+    "cli",
+    "medium",
+    "sotries",
+    "story",
+    "read",
+    "terminal",
+    "geek",
+    "api"
+  ],
   "main": "./lib/index.js",
   "preferGlobal": true,
   "bin": {
