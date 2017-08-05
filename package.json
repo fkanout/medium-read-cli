@@ -1,7 +1,8 @@
 {
-  "name": "medium-api-cli",
+  "name": "medium-cli",
   "version": "1.0.0",
-  "description": "Read Medium's articles from your terminal",
+  "description": "Read Medium's stories from your terminal",
+  "keywords": ["cli", "medium", "sotries", "story", "read", "terminal", "geek", "api"],
   "main": "./lib/index.js",
   "preferGlobal": true,
   "bin": {
@@ -14,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/fkanout/medium-api-cli.git"
   },
-  "author": "Faisal KANOUT",
+  "author": "Faisal KANOUT <faisal@kanout.com> (http://www.kanout.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fkanout/medium-api-cli/issues"
