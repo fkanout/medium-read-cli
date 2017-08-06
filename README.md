@@ -26,6 +26,8 @@ it's very easy you only need a few keys:
 
 `ENTER`: Pick to read a story
 
+`SPACE`: Get more stories
+
 `↑` `↓`: Navigate between the stories' list
 
 `⇐`: *backsapce* Back to stories' list once finished reading a story
