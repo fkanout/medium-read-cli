@@ -1,6 +1,6 @@
 {
   "name": "medium-read-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Read Medium's stories from your terminal",
   "keywords": [
     "cli",
