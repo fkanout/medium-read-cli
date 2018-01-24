@@ -1,5 +1,12 @@
 ![alt text](https://raw.githubusercontent.com/fkanout/medium-read-cli/master/assets/mdm200.png)
 
+[![NPM](https://nodei.co/npm/medium-read-cli.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/medium-read-cli/)
+
+[![npm](https://img.shields.io/npm/v/medium-read-cli.svg)]()
+[![npm](https://img.shields.io/npm/dw/medium-read-cli.svg)]()
+[![npm](https://img.shields.io/npm/dm/medium-read-cli.svg)]()
+[![npm](https://img.shields.io/npm/dy/medium-read-cli.svg)]()
+[![npm](https://img.shields.io/npm/l/medium-read-cli.svg)]()
 
 # medium-read-cli
 Read [Medium's](https://www.medium.com) stories from your *lovely, colored, customized...* terminal. No need for browsers anymore !
