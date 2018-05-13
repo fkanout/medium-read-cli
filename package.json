@@ -36,7 +36,8 @@
     "ora": "^1.3.0",
     "readline-sync": "^1.4.7",
     "request": "^2.81.0",
-    "request-promise-native": "^1.0.4"
+    "request-promise-native": "^1.0.4",
+    "terminal-image": "github:fkanout/terminal-image"
   },
   "devDependencies": {
     "eslint": "^4.4.0",
