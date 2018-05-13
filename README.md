@@ -9,10 +9,14 @@
 [![npm](https://img.shields.io/npm/l/medium-read-cli.svg)]()
 [![Maintainability](https://api.codeclimate.com/v1/badges/14936011564f37d067c1/maintainability)](https://codeclimate.com/github/fkanout/medium-read-cli/maintainability)
 
+
 # medium-read-cli
 Read [Medium's](https://www.medium.com) stories from your *lovely, colored, customized...* terminal. No need for browsers anymore !
 
-![alt text](https://raw.githubusercontent.com/fkanout/medium-read-cli/master/assets/demo.gif)
+> 🔥New🔥  Now you can see the stories images and code snippets from your terminal! 
+
+
+![alt text](https://raw.githubusercontent.com/fkanout/medium-read-cli/addImgArticle/assets/demoWithImg.gif)
 
 
 # Why
