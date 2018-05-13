@@ -15,7 +15,7 @@ Read [Medium's](https://www.medium.com) stories from your *lovely, colored, cust
 > 🔥New🔥  Now you can see the article images and code snippet from your terminal! 
 
 
-![alt text](https://raw.githubusercontent.com/fkanout/medium-read-cli/master/assets/demoWithImg.gif)
+![alt text](https://raw.githubusercontent.com/fkanout/medium-read-cli/addImgArticle/assets/demoWithImg.gif)
 
 
 # Why
