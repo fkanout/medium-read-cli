@@ -12,7 +12,7 @@
 # medium-read-cli
 Read [Medium's](https://www.medium.com) stories from your *lovely, colored, customized...* terminal. No need for browsers anymore !
 
-> 🔥New🔥  Now you can see the article images and code snippet from your terminal! 
+> 🔥New🔥  Now you can see the stories images and code snippets from your terminal! 
 
 
 ![alt text](https://raw.githubusercontent.com/fkanout/medium-read-cli/addImgArticle/assets/demoWithImg.gif)
